@@ -19,7 +19,7 @@ function App() {
       <article>
         <div className="va-information">
           <div className="actor">
-            <img src="../public/image/梶裕貴/梶裕貴.jpg" alt="" className="actor-img" width="250px" height="250px" />
+            <img src="/image/梶裕貴/梶裕貴.jpg" alt="" className="actor-img" width="250px" height="250px" />
           </div>
 
           <div className="introduction">
