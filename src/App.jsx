@@ -86,7 +86,7 @@ function App() {
           <div className="role-card">
             <div className="card">
               <div className="card-img">
-                <a href=""><img src="../public/image/梶裕貴/艾連·葉卡.png" alt="艾連·葉卡" /></a>
+                <a href=""><img src="/image/梶裕貴/艾連·葉卡.png" alt="艾連·葉卡" /></a>
               </div>
               <div className="card-text">
                 <h2>艾連·葉卡</h2>
@@ -94,7 +94,7 @@ function App() {
             </div>
             <div className="card">
               <div className="card-img">
-                <a href="./volley.html"><img src="../public/image/梶裕貴/孤爪研磨.png" alt="孤爪研磨" /></a>
+                <a href="./volley.html"><img src="/image/梶裕貴/孤爪研磨.png" alt="孤爪研磨" /></a>
               </div>
               <div className="card-text">
                 <h2>孤爪研磨</h2>
@@ -102,7 +102,7 @@ function App() {
             </div>
             <div className="card">
               <div className="card-img">
-                <a href="./myhero.html"><img src="../public/image/梶裕貴/轟焦凍.png" alt="轟焦凍" /></a>
+                <a href="./myhero.html"><img src="/image/梶裕貴/轟焦凍.png" alt="轟焦凍" /></a>
               </div>
               <div className="card-text">
                 <h2>轟焦凍</h2>
@@ -110,7 +110,7 @@ function App() {
             </div>
             <div className="card">
               <div className="card-img">
-                <a href=""><img src="../public/image/梶裕貴/梅里奧達斯.png" alt="梅里奧達斯" /></a>
+                <a href=""><img src="/image/梶裕貴/梅里奧達斯.png" alt="梅里奧達斯" /></a>
               </div>
               <div className="card-text">
                 <h2>梅里奧達斯</h2>
@@ -118,7 +118,7 @@ function App() {
             </div>
             <div className="card">
               <div className="card-img">
-                <a href=""><img src="../public/image/梶裕貴/錆兔.png" alt="錆兔" /></a>
+                <a href=""><img src="/image/梶裕貴/錆兔.png" alt="錆兔" /></a>
               </div>
               <div className="card-text">
                 <h2>錆兔</h2>
@@ -129,7 +129,7 @@ function App() {
           <div className="role-card">
             <div className="card">
               <div className="card-img">
-                <a href=""><img src="../public/image/梶裕貴/雷恩·艾姆茲.png" alt="雷恩·艾姆茲" /></a>
+                <a href=""><img src="/image/梶裕貴/雷恩·艾姆茲.png" alt="雷恩·艾姆茲" /></a>
               </div>
               <div className="card-text">
                 <h2>雷恩·艾姆茲</h2>
@@ -137,7 +137,7 @@ function App() {
             </div>
             <div className="card">
               <div className="card-img">
-                <a href=""><img src="../public/image/梶裕貴/櫻滿集.png" alt="櫻滿集" /></a>
+                <a href=""><img src="/image/梶裕貴/櫻滿集.png" alt="櫻滿集" /></a>
               </div>
               <div className="card-text">
                 <h2>櫻滿集</h2>
@@ -145,7 +145,7 @@ function App() {
             </div>
             <div className="card">
               <div className="card-img">
-                <a href=""><img src="../public/image/梶裕貴/里見蓮太郎.png" alt="里見蓮太郎" /></a>
+                <a href=""><img src="/image/梶裕貴/里見蓮太郎.png" alt="里見蓮太郎" /></a>
               </div>
               <div className="card-text">
                 <h2>里見蓮太郎</h2>
@@ -153,7 +153,7 @@ function App() {
             </div>
             <div className="card">
               <div className="card-img">
-                <a href=""><img src="../public/image/梶裕貴/菲尼安.png" alt="菲尼安" /></a>
+                <a href=""><img src="/image/梶裕貴/菲尼安.png" alt="菲尼安" /></a>
               </div>
               <div className="card-text">
                 <h2>菲尼安</h2>
@@ -161,7 +161,7 @@ function App() {
             </div>
             <div className="card">
               <div className="card-img">
-                <a href=""><img src="../public/image/梶裕貴/舞子集.png" alt="舞子集" /></a>
+                <a href=""><img src="/image/梶裕貴/舞子集.png" alt="舞子集" /></a>
               </div>
               <div className="card-text">
                 <h2>舞子集</h2>
@@ -172,7 +172,7 @@ function App() {
           <div className="role-card">
             <div className="card">
               <div className="card-img">
-                <a href=""><img src="../public/image/梶裕貴/遊馬崎沃克.png" alt="遊馬崎沃克" /></a>
+                <a href=""><img src="/image/梶裕貴/遊馬崎沃克.png" alt="遊馬崎沃克" /></a>
               </div>
               <div className="card-text">
                 <h2>遊馬崎沃克</h2>
@@ -180,7 +180,7 @@ function App() {
             </div>
             <div className="card">
               <div className="card-img">
-                <a href=""><img src="../public/image/梶裕貴/不動明王.png" alt="不動明王" /></a>
+                <a href=""><img src="/image/梶裕貴/不動明王.png" alt="不動明王" /></a>
               </div>
               <div className="card-text">
                 <h2>不動明王</h2>
@@ -188,7 +188,7 @@ function App() {
             </div>
             <div className="card">
               <div className="card-img">
-                <a href=""><img src="../public/image/梶裕貴/有田春雪.png" alt="有田春雪" /></a>
+                <a href=""><img src="/image/梶裕貴/有田春雪.png" alt="有田春雪" /></a>
               </div>
               <div className="card-text">
                 <h2>有田春雪</h2>
@@ -196,7 +196,7 @@ function App() {
             </div>
             <div className="card">
               <div className="card-img">
-                <a href=""><img src="../public/image/梶裕貴/雪音.png" alt="雪音" /></a>
+                <a href=""><img src="/image/梶裕貴/雪音.png" alt="雪音" /></a>
               </div>
               <div className="card-text">
                 <h2>雪音</h2>
@@ -204,7 +204,7 @@ function App() {
             </div>
             <div className="card">
               <div className="card-img">
-                <a href=""><img src="../public/image/梶裕貴/篠崎命.png" alt="篠崎命" /></a>
+                <a href=""><img src="/image/梶裕貴/篠崎命.png" alt="篠崎命" /></a>
               </div>
               <div className="card-text">
                 <h2>篠崎命</h2>
@@ -215,7 +215,7 @@ function App() {
           <div className="role-card">
             <div className="card">
               <div className="card-img">
-                <a href=""><img src="../public/image/梶裕貴/二藤尚哉.png" alt="二藤尚哉" /></a>
+                <a href=""><img src="/image/梶裕貴/二藤尚哉.png" alt="二藤尚哉" /></a>
               </div>
               <div className="card-text">
                 <h2>二藤尚哉</h2>
@@ -223,7 +223,7 @@ function App() {
             </div>
             <div className="card">
               <div className="card-img">
-                <a href=""><img src="../public/image/梶裕貴/山田太郎.png" alt="山田太郎" /></a>
+                <a href=""><img src="/image/梶裕貴/山田太郎.png" alt="山田太郎" /></a>
               </div>
               <div className="card-text">
                 <h2>山田太郎</h2>
@@ -231,7 +231,7 @@ function App() {
             </div>
             <div className="card">
               <div className="card-img">
-                <a href=""><img src="../public/image/梶裕貴/希特隆.png" alt="希特隆" /></a>
+                <a href=""><img src="/image/梶裕貴/希特隆.png" alt="希特隆" /></a>
               </div>
               <div className="card-text">
                 <h2>希特隆</h2>
@@ -239,7 +239,7 @@ function App() {
             </div>
             <div className="card">
               <div className="card-img">
-                <a href=""><img src="../public/image/梶裕貴/慎導灼.png" alt="慎導灼" /></a>
+                <a href=""><img src="/image/梶裕貴/慎導灼.png" alt="慎導灼" /></a>
               </div>
               <div className="card-text">
                 <h2>慎導灼</h2>
@@ -247,7 +247,7 @@ function App() {
             </div>
             <div className="card">
               <div className="card-img">
-                <a href=""><img src="../public/image/梶裕貴/成宮鳴.png" alt="成宮鳴" /></a>
+                <a href=""><img src="/image/梶裕貴/成宮鳴.png" alt="成宮鳴" /></a>
               </div>
               <div className="card-text">
                 <h2>成宮鳴</h2>
